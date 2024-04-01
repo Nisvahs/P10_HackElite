@@ -12,6 +12,6 @@ Ved Ambani-202301105
 Jeel Thummar-202301047
 <br>
 This Project focuses on developing a Recipe Manager system where a user can search, add and view different recipes on a menu
-with effients data structures.
+with efficient data structures.
 
 
